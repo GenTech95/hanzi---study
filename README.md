@@ -1,4 +1,4 @@
-# ✍️ AI 汉字笔顺学习助手 | AI Hanzi Stroke Order Learner
+# ✍️ GenTech95 AI 汉字实验室 | GenTech95 AI Chinese Character Lab
 
 2026年春节为孩子开发的轻量级汉字学习工具。一键模拟手写动画，搭配拼音与读音，让学习更有趣。
 A lightweight Hanzi learning tool developed for kids during the 2026 Spring Festival. It simulates handwriting animations, displays Pinyin, and provides voice pronunciation to make learning fun.
